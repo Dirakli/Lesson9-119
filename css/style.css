@@ -1,0 +1,146 @@
+@import url("//cdn.web-fonts.ge/fonts/alk-rounded-nusx-med/css/alk-rounded-nusx-med.min.css");
+
+.divi {
+    width: 100%;
+    height: 324px;
+    background-image: url(../images/cover.jpg);
+    background-size: cover;
+    display: flex;
+    justify-content: space-around;
+    padding-top: 30px;
+}
+.header-text {
+    font-size: 14px;
+    color: #FFFFFF;
+}
+.nav-li {
+    font-size: 12px;
+    color: #FFFFFF;
+    display: flex;
+    font-family: "ALK Rounded Nusx Med", sans-serif;
+}
+li {
+    margin-right: 49px;
+}
+.last-child {
+    margin-right: 0;
+}
+
+/* section1 */
+.left-block {
+    width: 444px;
+    display: flex;
+    flex-direction: column;
+    margin-top: 128px;
+    margin-left: 139px;
+}
+.flex-wraper {
+    display: flex;
+    justify-content: space-around;
+}
+.section-title {
+    font-size: 14px;
+    color: #5863F8;
+    font-family: "ALK Rounded Nusx Med", sans-serif;
+    margin-bottom: 10px;
+}
+.section-title2 {
+    font-size: 42px;
+    color: #000000;
+    margin-bottom: 10px;
+}
+.section-text {
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+.section-text2 {
+    font-size: 14px;
+    margin-bottom: 10px;
+}
+.small-div {
+    width: 184px;
+    height: 50px;
+    background-color: #5863F8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.readmore {
+    font-size: 14px;
+    color: #FFFFFF;
+    margin-right: 5px;
+}
+.right-block {
+    max-width: 536px;
+    width: 100%;
+    margin-top: 90px;
+    margin-right: 139px;
+    margin-bottom: 90px;
+}
+.third {
+    margin-top: 16px;
+}
+.first {
+    margin-right: 12px;
+}
+/* section2 */
+.bottom-div {
+    background-image: url(../images/bottom-cover.jpg);
+    background-size: cover;
+    height: 612px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+.bottom-title-div {
+    width: 376px;
+    font-size: 42px;
+    color: white;
+    margin-top: 1px;
+    margin-left: 150px;
+}
+.bottom-title {
+    color: #5863F8;
+    font-size: 14px;
+    margin-top: 92px;
+    margin-left: 150px;
+    
+}
+.divfour {
+    width: 260px;
+    height: 260px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color:white;
+    margin-left: 16px;
+}
+.bottom-smalldiv {
+    width: 59px;
+    height: 58px;
+    background-color: #5863F8;
+    border-radius: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 15px;
+}
+.bottomtitle {
+    font-size: 18px;
+    font-style: italic;
+    color: black;
+    margin-bottom: 20px;
+}
+.bottomtext {
+    font-size: 14px;
+    color: #B1B1B1;
+}
+.main-div {
+    max-width: 1088px;
+    width: 100%;
+    height: 260px;
+    display: flex;
+    margin-left: 139px;
+    margin-top: 34px;
+}
